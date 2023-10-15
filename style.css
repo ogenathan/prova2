@@ -14,9 +14,11 @@ body{
     justify-content: center;
     padding: 0 5vw ;  
 }
+.margin{
+    height: 60vh;
+}
 .centered span{
     font-weight: 800;
-    font-size: 1.8em;
 }
 .centered-about{
   padding-top: 10vh;
@@ -74,7 +76,7 @@ body{
     margin-top: 15vh;
 }
 .footer-index{
-    margin-top: 35vh;
+    margin-top: 15vh;
 }
 .footer-about{
     margin-top: 45vh;
@@ -116,7 +118,4 @@ body{
     text-decoration: none;
     padding: 5px;
     color: #008cff;
-}
-.chat{
-    width: 50vw;
 }
